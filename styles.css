@@ -11,3 +11,10 @@ nav {
     text-shadow: 1px 1px 0 #444;
     color: black
 }
+header {
+  padding: 30px;
+  height: 70%;
+  background-image: url('https://i.redd.it/cr7o67768c711.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+}
