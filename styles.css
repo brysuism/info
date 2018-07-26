@@ -17,4 +17,5 @@ header {
   background-image: url('https://i.redd.it/cr7o67768c711.jpg');
   background-size: cover;
   background-attachment: fixed;
+  background-position: center;
 }
